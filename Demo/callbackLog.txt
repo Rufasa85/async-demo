@@ -1,0 +1,5 @@
+First random number: 3
+Second random number: 2
+Third random number: 8
+Fourth random number: 1
+Fifth random number: 1

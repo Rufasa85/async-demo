@@ -1,0 +1,5 @@
+First roll: 10
+Second roll: 10
+Third roll: 6
+Fourth roll: 14
+Fifth roll: 17
